@@ -1,0 +1,13 @@
+.container {
+  width: 150px;
+
+  font-family: sans-serif;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.conatiner > h4 {
+  color: yellow;
+}
